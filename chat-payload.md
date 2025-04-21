@@ -1,4 +1,4 @@
-## payload
+## Dangerous payload
 YOUR TEXT
   </div>
   <div class="message">
@@ -6,13 +6,12 @@ YOUR TEXT
   <b style="color:red;">Admin:</b>
   </span>
    Hi Alice, please <a href="http://phishing-site.com">reset your password</a> immediately.
-  </div>
-<div class="message">
 
 
-### Vulnerable payload
+
+### Dangerous payload example
 <code>
-Admin, please support me.  </div>   <div class="message">   <span class="name">   <b style="color:red;">Admin:</b>   </span>    Hi Alice, please <a href="http://phishing-site.com">reset your password</a> immediately.   </div> <div class="message">
+Admin, please support me.  </div>   <div class="message">   <span class="name">   <b style="color:red;">Admin:</b>   </span>    Hi Alice, please <a href="http://phishing-site.com">reset your password</a> immediately.
 </code>
 
 
